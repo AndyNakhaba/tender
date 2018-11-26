@@ -1,0 +1,127 @@
+/*
+Flaticon icon font: Flaticon
+Creation date: 26/10/2016 10:43
+*/
+
+$font-path: "../../fonts/";
+
+.fi {
+  display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+}
+
+.flaticon-add:before {
+  content: "\f100";
+}
+
+.flaticon-arroba:before {
+  content: "\f101";
+}
+
+.flaticon-calendar-checked:before {
+  content: "\f102";
+}
+
+.flaticon-calendar-with-letter-x:before {
+  content: "\f103";
+}
+
+.flaticon-checked:before {
+  content: "\f104";
+}
+
+.flaticon-clock:before {
+  content: "\f105";
+}
+
+.flaticon-cross:before {
+  content: "\f106";
+}
+
+.flaticon-expand:before {
+  content: "\f107";
+}
+
+.flaticon-favourites-filled-star-symbol:before {
+  content: "\f108";
+}
+
+.flaticon-folder:before {
+  content: "\f109";
+}
+
+.flaticon-gps:before {
+  content: "\f10a";
+}
+
+.flaticon-location:before {
+  content: "\f10b";
+}
+
+.flaticon-minutes:before {
+  content: "\f10c";
+}
+
+.flaticon-multiple-users-silhouette:before {
+  content: "\f10d";
+}
+
+.flaticon-phone-receiver:before {
+  content: "\f10e";
+}
+
+.flaticon-print-button:before {
+  content: "\f10f";
+}
+
+.flaticon-service:before {
+  content: "\f110";
+}
+
+.flaticon-share-symbol:before {
+  content: "\f111";
+}
+
+.flaticon-social:before {
+  content: "\f112";
+}
+
+.flaticon-social-1:before {
+  content: "\f113";
+}
+
+.flaticon-star:before {
+  content: "\f114";
+}
+
+$font-Flaticon-add: "\f100";
+$font-Flaticon-arroba: "\f101";
+$font-Flaticon-calendar-checked: "\f102";
+$font-Flaticon-calendar-with-letter-x: "\f103";
+$font-Flaticon-checked: "\f104";
+$font-Flaticon-clock: "\f105";
+$font-Flaticon-cross: "\f106";
+$font-Flaticon-expand: "\f107";
+$font-Flaticon-favourites-filled-star-symbol: "\f108";
+$font-Flaticon-folder: "\f109";
+$font-Flaticon-gps: "\f10a";
+$font-Flaticon-location: "\f10b";
+$font-Flaticon-minutes: "\f10c";
+$font-Flaticon-multiple-users-silhouette: "\f10d";
+$font-Flaticon-phone-receiver: "\f10e";
+$font-Flaticon-print-button: "\f10f";
+$font-Flaticon-service: "\f110";
+$font-Flaticon-share-symbol: "\f111";
+$font-Flaticon-social: "\f112";
+$font-Flaticon-social-1: "\f113";
+$font-Flaticon-star: "\f114";

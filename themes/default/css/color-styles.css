@@ -1,0 +1,229 @@
+html::-webkit-scrollbar {
+  _background-color: #fdfdfd;
+}
+body {
+  background: #fdfdfd;
+  color: #494949;
+}
+#sb_multiple_book_cart .counter {
+  background: #33bb60;
+  color: #ffffff;
+}
+#sb_multiple_book_cart .counter a {
+  color: #ffffff;
+}
+#sb_menu a {
+  color: #494949;
+}
+.btn.book-btn {
+  background: #33bb60;
+  color: #ffffff;
+}
+.btn.book-btn a {
+  color: #ffffff;
+}
+#sb-timeline #steps-nav li:not(.passed) .title-small {
+  color: #494949;
+}
+#sb-timeline #steps-nav li:first-child .title-small,
+#sb-timeline #steps-nav li.passed .title-small,
+#sb-timeline #steps-nav li.passed + li:not(.passed) .title-small {
+  color: #494949;
+}
+#sb-timeline #steps-nav li:first-child:after {
+  background: #fdfdfd;
+  border-top-color: #fdfdfd;
+  border-left-color: #d1e9c6;
+  border-bottom-color: #fdfdfd;
+}
+#sb-timeline #steps-nav li.passed + li:not(.passed):after {
+  background: #fdfdfd;
+  border-top-color: #fdfdfd;
+  border-left-color: #d1e9c6;
+  border-bottom-color: #fdfdfd;
+}
+#booking-result-view .tab .btn .sb_book_again {
+  background: #5e7da7;
+  color: #ffffff;
+}
+#booking-result-view .tab .btn .sb_book_again a {
+  color: #ffffff;
+}
+.custom-form .btn {
+  background: #5e7da7;
+  color: #ffffff;
+}
+.custom-form .btn a {
+  color: #ffffff;
+}
+.current-booking-info .btn.sb_book_again {
+  background: #5e7da7;
+  color: #ffffff;
+}
+.current-booking-info .btn.sb_book_again a {
+  color: #ffffff;
+}
+.bar-with-btn .btn {
+  background: #5e7da7;
+  color: #ffffff;
+}
+.bar-with-btn .btn a {
+  color: #ffffff;
+}
+#header .items-wrapper .nav-item#sb_client_info .login-container .full-info #sb_login_form .not-logged .bar .btn {
+  background: #5e7da7;
+  color: #ffffff;
+}
+#header .items-wrapper .nav-item#sb_client_info .login-container .full-info #sb_login_form .not-logged .bar .btn a {
+  color: #ffffff;
+}
+#main #main-buttons .btn.custom {
+  background: #5e7da7;
+  color: #ffffff;
+}
+#main #main-buttons .btn.custom a {
+  color: #ffffff;
+}
+#main #main-buttons .btn.map {
+  background: #5e7da7;
+  color: #ffffff;
+}
+#main #main-buttons .btn.map a {
+  color: #ffffff;
+}
+#main #main-buttons .btn.promo {
+  background: #5e7da7;
+  color: #ffffff;
+}
+#main #main-buttons .btn.promo a {
+  color: #ffffff;
+}
+.modal-dialog .modal-content .modal-header {
+  background: #33bb60;
+}
+.modal-dialog .modal-content .modal-header .modal-title {
+  color: #ffffff;
+}
+.timezone-modal.modal-dialog .modal-content .modal-footer .btn {
+  background: #5e7da7;
+  color: #ffffff;
+}
+.timezone-modal.modal-dialog .modal-content .modal-footer .btn a {
+  color: #ffffff;
+}
+#sb_booking_content .tab .btn.select {
+  background: #33bb60;
+  color: #ffffff;
+}
+#sb_booking_content .tab .btn.select a {
+  color: #ffffff;
+}
+#steps #steps-content #sb_booking_content .detail-step {
+  color: #494949;
+}
+#steps #steps-content #sb_booking_content .detail-step .right-side #sb_multiple_booking_btn {
+  background: #5e7da7;
+  color: #ffffff;
+}
+#steps #steps-content #sb_booking_content .detail-step .right-side #sb_multiple_booking_btn a {
+  color: #ffffff;
+}
+.full-info-trigger {
+  background: #33bb60;
+  color: #ffffff;
+}
+#main #main-buttons .btn.book {
+  background: #33bb60;
+  color: #ffffff;
+}
+#main #main-buttons .btn.book a {
+  color: #ffffff;
+}
+#sb-timeline #steps #steps-content #sb_booking_content .detail-step .right-side #sb_book_btn {
+  background: #33bb60;
+  color: #ffffff;
+}
+#sb-timeline #steps #steps-content #sb_booking_content .detail-step .right-side #sb_book_btn a {
+  color: #ffffff;
+}
+#main #main-content #sb_content #client-login button.btn {
+  background: #33bb60;
+  color: #ffffff;
+}
+#header .nav-wrapper #sb_menu .nav li.active a {
+  background-color: #d03d64;
+}
+#header .nav-wrapper #sb_menu .nav li a:hover {
+  background-color: #d03d64;
+}
+#sb_change_timezone {
+  background: #81889a;
+}
+#sb-timeline #steps #steps-content #sb_booking_content .service-item .sb_group_booking_count .plugin-group-booking .ui-slider {
+  background: #33bb60;
+}
+#sb_booking_content .tab .excerpt-info .preloader {
+  background: #81889a;
+}
+#sb-timeline .datetime-step .date-select .calendar .weeks-date .date .day-off {
+  color: #81889a;
+}
+#sb-timeline .datetime-step .date-select .calendar .weeks-date .date .day-on {
+  color: #494949;
+}
+#sb-timeline .datetime-step .calendar .date.selected {
+  background: #d1e9c6;
+}
+#sb-timeline #steps #steps-content #sb_booking_content .datetime-step .timeline-wrapper a {
+  color: #494949;
+}
+/*timelines*/
+#sb-timeline #steps #steps-content #sb_booking_content .datetime-step .timeline-wrapper #sb_time_slots_container .slot.available.available {
+  background: #f6f6f6;
+}
+#sb-timeline #steps #steps-content #sb_booking_content .datetime-step .timeline-wrapper #sb_time_slots_container .slot.available:hover {
+  background: #d1e9c6;
+}
+#sb-timeline #steps #steps-content #sb_booking_content .datetime-step .timeline-wrapper #sb_time_slots_weekly_container .data-col .time-container .time-slot.free {
+  background: #f6f6f6;
+}
+#sb-timeline #steps #steps-content #sb_booking_content .datetime-step .timeline-wrapper #sb_time_slots_weekly_container .data-col .time-container .time-slot.free.hovered,
+#sb-timeline #steps #steps-content #sb_booking_content .datetime-step .timeline-wrapper #sb_time_slots_weekly_container .data-col .time-container .time-slot.free:hover {
+  background: #d1e9c6;
+}
+#sb-timeline #steps #steps-content #sb_booking_content .datetime-step .timeline-wrapper #sb_time_slots_weekly_container .data-col .time-container .time-slot.busy {
+  background: #dad2ce;
+}
+#sb-timeline #steps #steps-content #sb_booking_content .datetime-step .timeline-wrapper #sb_time_flexible_container .hour-line .sb_time_flexible_hour_container .time-slot.free {
+  background: #f6f6f6;
+}
+#sb-timeline #steps #steps-content #sb_booking_content .datetime-step .timeline-wrapper #sb_time_flexible_container .hour-line .sb_time_flexible_hour_container .time-slot.free.hovered,
+#sb-timeline #steps #steps-content #sb_booking_content .datetime-step .timeline-wrapper #sb_time_flexible_container .hour-line .sb_time_flexible_hour_container .time-slot.free:hover {
+  background: #d1e9c6;
+}
+#sb-timeline #steps #steps-content #sb_booking_content .datetime-step .timeline-wrapper #sb_time_flexible_container .hour-line .sb_time_flexible_hour_container .time-slot.breaktime {
+  background: #dad2ce;
+}
+#sb-timeline #steps #steps-content #sb_booking_content .datetime-step .timeline-wrapper #sb_time_flexible_weekly_container .data-col .time-container .time-slot {
+  border-right: 1px solid #e9e9e9;
+  border-bottom: 1px solid #e9e9e9;
+}
+#sb-timeline #steps #steps-content #sb_booking_content .datetime-step .timeline-wrapper #sb_time_flexible_weekly_container .data-col .time-container .time-slot.free {
+  background: #f6f6f6;
+}
+#sb-timeline #steps #steps-content #sb_booking_content .datetime-step .timeline-wrapper #sb_time_flexible_weekly_container .data-col .time-container .time-slot.free.hovered,
+#sb-timeline #steps #steps-content #sb_booking_content .datetime-step .timeline-wrapper #sb_time_flexible_weekly_container .data-col .time-container .time-slot.free:hover {
+  background: #d1e9c6;
+}
+#sb-timeline #steps #steps-content #sb_booking_content .datetime-step .timeline-wrapper #sb_time_flexible_weekly_container .data-col .time-container .time-slot.breaktime {
+  background: #dad2ce;
+}
+#sb-timeline #steps #steps-content #sb_booking_content .datetime-step #sb_timeview_container .timeline-wrapper #sb-time-classes-container .inner .provider-container .provider-col .provider-item {
+  background: #d3e0f1;
+}
+#sb-timeline #steps #steps-content #sb_booking_content .datetime-step #sb_timeview_container .timeline-wrapper #sb-time-classes-container .inner .provider-container .provider-col .provider-item:hover {
+  background: #d1e9c6;
+}
+#sb-timeline #steps #steps-content #sb_booking_content .datetime-step #sb_timeview_container .timeline-wrapper #sb-time-classes-container .inner .provider-container .provider-col .provider-item a {
+  color: #494949;
+}

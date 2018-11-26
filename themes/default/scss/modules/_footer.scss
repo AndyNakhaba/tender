@@ -1,0 +1,34 @@
+#footer{
+  .social{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 2.6em 0;
+  }
+  .copyright{
+    color: #fff;
+    font-family: 'Avenir LT Std 55 Oblique', sans-serif;
+    font-size: 11px;
+    margin-bottom: 9em;
+    text-align: center;
+    a{
+      color: #fff;
+    }
+  }
+  .bar.links{
+    a{
+      color: #fff;
+      display: block;
+      margin: 0 auto 20px;
+      width: 200px;
+      text-align: center;
+    }
+  }
+}
+
+
+// temp style
+
+
+
+// end 
